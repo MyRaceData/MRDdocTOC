@@ -40,6 +40,11 @@ class CategoryOnly extends Component {
                   <span>Introducing the </span>
                   <a href="https://community.myracedata.com/t/using-trakbox-dash/55">Racing TrakBox Dash</a>
                 </div><br>
+                <h4 style="margin-left: 1rem;">Advanced Topics</h4>
+                <div style="margin-left: 2rem;">
+                  <span>Phone display </span>
+                  <a href="https://community.myracedata.com/t/phone-display-and-littlefs-filesystem/346/1">Development</a>
+                </div><br>
             </div>
         </div>
     {{/if}}
