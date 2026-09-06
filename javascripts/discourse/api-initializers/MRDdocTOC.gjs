@@ -31,6 +31,10 @@ class CategoryOnly extends Component {
                   <span>What is the Racing TrakBox </span>
                   <a href="https://community.myracedata.com/t/trakbox-introduction-video/60"> Introduction Video</a>
                 </div><br>
+                <div style="margin-left: 2rem;">
+                  <span>Need Help? </span>
+                  <a href="https://community.myracedata.com/t/getting-trakbox-support/15/1"> Getting help and support</a>
+                </div><br>
             </div>
         </div>
     {{/if}}
