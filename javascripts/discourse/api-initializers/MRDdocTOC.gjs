@@ -20,9 +20,9 @@ class CategoryOnly extends Component {
         <div style="margin-bottom: 24px;">
             <!-- Table of Contents -->
             <div style="white-space: nowrap; padding-bottom: 10px; background-color: rgb(0,0,0,.5); height: 100%;">
-                <h2 style="text-align: center;">TrackBox Help</h2>
-                <div style="width: 200px; display: block; margin: 0 auto;">
-                  <a href="https://www.youtube.com/@myracedatacom/streams" target="_blank" rel="noopener noreferrer" style="display: block; height: 60px; width: 180px; background-color: black; border-radius: 8px; border: 1px solid white;"></a>
+                <h2>TrackBox Help</h2>
+                <div>
+                  <a href="https://community.myracedata.com/t/getting-started-guide/344"> Quick Start Guide</a>
                 </div>
             </div>
         </div>
