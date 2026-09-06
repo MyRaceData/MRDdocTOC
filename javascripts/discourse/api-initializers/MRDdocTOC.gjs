@@ -30,7 +30,7 @@ class CategoryOnly extends Component {
                 <div style="margin-left: 2rem;">
                   <span>What is the Racing TrakBox </span>
                   <a href="https://community.myracedata.com/t/trakbox-introduction-video/60"> Introduction Video</a>
-                </div><br>
+                </div>
                 <div style="margin-left: 2rem;">
                   <span>Need Help? </span>
                   <a href="https://community.myracedata.com/t/getting-trakbox-support/15/1"> Getting help and support</a>
@@ -44,7 +44,12 @@ class CategoryOnly extends Component {
                 <div style="margin-left: 2rem;">
                   <span>Phone display </span>
                   <a href="https://community.myracedata.com/t/phone-display-and-littlefs-filesystem/346/1">Development</a>
-                </div><br>
+                </div>
+                <div style="margin-left: 2rem;">
+                  <span>File Output </span>
+                  <a href="https://community.myracedata.com/t/phone-display-and-littlefs-filesystem/346/1">Explaination and units</a>
+                </div>
+https://community.myracedata.com/t/file-output-explanation/14/1
             </div>
         </div>
     {{/if}}
