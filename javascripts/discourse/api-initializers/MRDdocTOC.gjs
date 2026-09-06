@@ -22,11 +22,12 @@ class CategoryOnly extends Component {
             <div style="white-space: nowrap; padding-bottom: 10px; background-color: rgb(0,0,0,.5); height: 100%;">
                 <h2>Racing TrackBox Help</h2>
                 <h3>Table of Contents</h3>
+                <h3 style="margin-left: 1rem;">Beginner</h3>
                 <div style="margin-left: 2rem;">
                   <span>First Time Use? Check out the </span>
                   <a href="https://community.myracedata.com/t/getting-started-guide/344"> Quick Start Guide</a>
                 </div><br>
-                <div>
+                <div style="margin-left: 2rem;">
                   <span>What is the Racing TrakBox </span>
                   <a href="https://community.myracedata.com/t/trakbox-introduction-video/60"> Introduction Video</a>
                 </div><br>
