@@ -1,6 +1,6 @@
 {
   "name": "MRD Docs TOC",
-  "component": false,
+  "component": true,
   "about_url": null,
   "license_url": "https://github.com/MyRaceData/MRDdocTOC/blob/main/LICENSE",
   "authors": null,
