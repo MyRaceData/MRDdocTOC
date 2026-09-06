@@ -26,7 +26,7 @@ class CategoryOnly extends Component {
                 <div style="margin-left: 2rem;">
                   <span>First Time Use? Check out the </span>
                   <a href="https://community.myracedata.com/t/getting-started-guide/344"> Quick Start Guide</a>
-                </div><br>
+                </div>
                 <div style="margin-left: 2rem;">
                   <span>What is the Racing TrakBox </span>
                   <a href="https://community.myracedata.com/t/trakbox-introduction-video/60"> Introduction Video</a>
@@ -34,12 +34,12 @@ class CategoryOnly extends Component {
                 <div style="margin-left: 2rem;">
                   <span>Need Help? </span>
                   <a href="https://community.myracedata.com/t/getting-trakbox-support/15/1"> Getting help and support</a>
-                </div><br>
+                </div>
                 <h4 style="margin-left: 1rem;">TrakBox Dash</h4>
                 <div style="margin-left: 2rem;">
                   <span>Introducing the </span>
                   <a href="https://community.myracedata.com/t/using-trakbox-dash/55">Racing TrakBox Dash</a>
-                </div><br>
+                </div>
                 <h4 style="margin-left: 1rem;">Advanced Topics</h4>
                 <div style="margin-left: 2rem;">
                   <span>Phone display </span>
