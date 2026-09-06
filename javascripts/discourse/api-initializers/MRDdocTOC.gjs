@@ -2,7 +2,7 @@ import Component from "@glimmer/component";
 import { service } from "@ember/service";
 import { apiInitializer } from "discourse/lib/api";
 
-const TARGET_SLUG = "your-category-slug"; // e.g. "myracedata"
+const TARGET_SLUG = "trakbox-help"; // e.g. "trakbox-help"
 
 class CategoryOnly extends Component {
   @service router;
@@ -32,10 +32,4 @@ class CategoryOnly extends Component {
 
 export default apiInitializer((api) => {
   api.renderInOutlet("above-main-container", CategoryOnly);
-  api.onPageChange(() => {
-    const myWidget = document.querySelector("#weather-widget-container");
-    if (myWidget) {
-      window.loadWeatherWidget();
-    }
-  });
 });
