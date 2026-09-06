@@ -35,12 +35,12 @@ class CategoryOnly extends Component {
                   <span>Need Help? </span>
                   <a href="https://community.myracedata.com/t/getting-trakbox-support/15/1"> Getting help and support</a>
                 </div>
-                <h4 style="margin-left: 1rem;">TrakBox Dash</h4>
+                <br><h4 style="margin-left: 1rem;">TrakBox Dash</h4>
                 <div style="margin-left: 2rem;">
                   <span>Introducing the </span>
                   <a href="https://community.myracedata.com/t/using-trakbox-dash/55">Racing TrakBox Dash</a>
                 </div>
-                <h4 style="margin-left: 1rem;">Advanced Topics</h4>
+                <br><h4 style="margin-left: 1rem;">Advanced Topics</h4>
                 <div style="margin-left: 2rem;">
                   <span>Phone display </span>
                   <a href="https://community.myracedata.com/t/phone-display-and-littlefs-filesystem/346/1">Development</a>
