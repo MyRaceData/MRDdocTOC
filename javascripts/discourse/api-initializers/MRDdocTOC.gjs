@@ -49,7 +49,6 @@ class CategoryOnly extends Component {
                   <span>File Output </span>
                   <a href="https://community.myracedata.com/t/phone-display-and-littlefs-filesystem/346/1">Explaination and units</a>
                 </div>
-https://community.myracedata.com/t/file-output-explanation/14/1
             </div>
         </div>
     {{/if}}
