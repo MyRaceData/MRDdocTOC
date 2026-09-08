@@ -24,7 +24,7 @@ class CategoryOnly extends Component {
                 <h3>Table of Contents</h3>
                 <h4 style="margin-left: 1rem;">Getting Started</h4>
                 <div style="margin-left: 2rem;">
-                  <span>First Time Use? Check out the </span>
+                  <span>First Time? - </span>
                   <a href="https://community.myracedata.com/t/getting-started-guide/344"> Quick Start Guide</a>
                 </div>
                 <div style="margin-left: 2rem;">
