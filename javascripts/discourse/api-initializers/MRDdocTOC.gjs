@@ -19,7 +19,7 @@ class CategoryOnly extends Component {
     {{#if this.shouldShow}}
         <div style="margin-bottom: 24px;">
             <!-- Table of Contents -->
-            <div style="white-space: nowrap; padding-bottom: 10px; background-color: rgb(0,0,0,.5); height: 100%;">
+            <div style="background-color: rgb(0,0,0,.5); height: 100%;">
                 <h2>Racing TrackBox Help</h2>
                 <h3>Table of Contents</h3>
                 <h4 style="margin-left: 1rem;">Getting Started</h4>
