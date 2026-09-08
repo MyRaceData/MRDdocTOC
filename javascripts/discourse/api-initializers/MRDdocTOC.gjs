@@ -20,7 +20,7 @@ class CategoryOnly extends Component {
         <div style="margin-bottom: 24px;">
             <!-- Table of Contents -->
             <div style="background-color: rgb(0,0,0,.5); height: 100%;">
-                <h2>Racing TrackBox Help</h2>
+                <h2>Racing TrakBox Help</h2>
                 <h3>Table of Contents</h3>
                 <h4 style="margin-left: 1rem;">Getting Started</h4>
                 <div style="margin-left: 2rem;">
