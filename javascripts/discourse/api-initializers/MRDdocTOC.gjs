@@ -28,7 +28,7 @@ class CategoryOnly extends Component {
                   <a href="https://community.myracedata.com/t/getting-started-guide/344"> Quick Start Guide</a>
                 </div>
                 <div style="margin-left: 2rem;">
-                  <span>What is the Racing TrakBox </span>
+                  <span>What is Racing TrakBox </span>
                   <a href="https://community.myracedata.com/t/trakbox-introduction-video/60"> Introduction Video</a>
                 </div>
                 <div style="margin-left: 2rem;">
